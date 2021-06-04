@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Uma aplicação web simples para consultar cep">
+    <meta name="keywords" content="Consultar CEP, HTML, CSS, JavaScript">
+    <meta name="author" content="Bernardo Schmitz dos Santos">
+    <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=5.0, minimum-scale=0.86">
+    <title class="title">Consultar CEP</title>
+
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="shortcut icon" href="assets/img/favicon.ico" />
+
+</head>
+
+<body>
+
+    <div id="app">
+        <form>
+            <input onkeypress='return event.charCode >= 48 && event.charCode <= 57' maxlength="8" id="cepField" type="text" placeholder="Digite o CEP" />
+            <button type=submit id="consultButton">Consultar CEP</button>
+        </form>
+        <main>
+
+
+
+
+        </main>
+    </div>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="./app.js"></script>
+
+</body>
+
+</html>
