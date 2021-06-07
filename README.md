@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/B-Schmitz/bootcamp-cataline?style=for-the-badge)](https://github.com/B-Schmitz/bootcamp-cataline/issues)
 [![GitHub forks](https://img.shields.io/github/forks/B-Schmitz/bootcamp-cataline?style=for-the-badge)](https://github.com/B-Schmitz/bootcamp-cataline/network)
 [![GitHub stars](https://img.shields.io/github/stars/B-Schmitz/bootcamp-cataline?style=for-the-badge)](https://github.com/B-Schmitz/bootcamp-cataline/stargazers)
-[![GitHub license](https://img.shields.io/github/license/B-Schmitz/bootcamp-cataline?style=for-the-badge)](https://github.com/B-Schmitz/bootcamp-cataline/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/B-Schmitz/bootcamp-cataline?style=for-the-badge)](https://github.com/B-Schmitz/bootcamp-cataline/blob/main/LICENSE.txt)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
