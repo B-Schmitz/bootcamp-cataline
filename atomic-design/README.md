@@ -17,7 +17,7 @@ Esse projeto faz parte do curso de Atomic Design do Bootcamp Cataline. Nesse cur
 ## Screenshot
 
 <p align="center">
- <img src="./src/assets/images/screenshot.png" alt="Logo" width= 1140 height= 750>
+ <img src="./src/assets/images/Screenshot.png" alt="Logo" width= 1140 height= 750>
 </p>
 
 ## Desenvolvido com
