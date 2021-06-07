@@ -1,12 +1,12 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/B-Schmitz/bootcamp-cataline/tree/main/atomic-design">
     <img src="./src/assets/images/logo.svg" alt="Logo" width="150" height="150">
   </a>
-  <h3 align="center">Atomic Design</h3>
+  <h2 align="center">Atomic Design</h2>
 <p align="center">
- :computer: <a href="https://github.com/othneildrew/Best-README-Template">Ver Demo</a>
-    :question: <a href="https://github.com/othneildrew/Best-README-Template/issues">Reportar um Bug</a>
+ :computer: <a href="https://atomicdesign-cataline.netlify.app/">Ver Demo</a>
+    :grey_question: <a href="https://github.com/B-Schmitz/bootcamp-cataline/issues">Reportar um Bug</a>
  </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -48,5 +48,5 @@ Após a instalação, execute o comando abaixo para iniciar a aplicação.
 
 ## Contato
 
-#### [Linkedin](https://www.linkedin.com/in/bernardo-ssantos/)
+#### :briefcase: [Linkedin](https://www.linkedin.com/in/bernardo-ssantos/)
 #### :e-mail: bernardo_schmitz@live.com
